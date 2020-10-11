@@ -1,0 +1,13 @@
+.box {
+    margin: 0;
+}
+
+.flex-landing {
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex-card {
+    display: flex;
+    justify-content: center;
+}
